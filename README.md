@@ -199,5 +199,5 @@ To open the report, download `Melbourne_Real_Estate.pbix` and open it in **Power
 
 ## Author
 
-**Inna Bieliai** – Junior Data Analyst
+**Inna Bieliai** – Data Analyst
 [LinkedIn](https://www.linkedin.com/in/inna-bieliai/) · [GitHub](https://github.com/inna-bieliai)
