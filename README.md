@@ -4,9 +4,11 @@ An interactive one-page Power BI dashboard analysing **13,580 residential proper
 
 ![Dashboard](images/dashboard.png)
 
-> **Tools:** Power BI Desktop · Power Query · DAX · Data modelling
-> **Data:** Kaggle – Melbourne Housing Snapshot (`melb_data.csv`)
-> **Currency:** AUD
+[Open the PDF version](Melbourne_Housing_Dashboard.pdf)
+
+- **Tools:** Power BI Desktop · Power Query · DAX · Data modelling
+- **Data:** Kaggle – Melbourne Housing Snapshot (`melb_data.csv`)
+- **Currency:** AUD
 
 ---
 
